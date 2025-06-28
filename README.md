@@ -7,7 +7,7 @@ This project presents a comprehensive **Adidas Sales Analysis Dashboard** built 
 ## 🖼️ Dashboard Preview
 
 <p align="center">
-  <img src="dashboard.png" alt="Adidas Power BI Dashboard" width="700"/>
+  <img src="dashboard.jpeg" alt="Adidas Power BI Dashboard" width="700"/>
 </p>
 
 ---
